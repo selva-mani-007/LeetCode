@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
