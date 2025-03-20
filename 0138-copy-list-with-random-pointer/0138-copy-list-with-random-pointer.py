@@ -13,6 +13,32 @@ class Solution:
             return None
 
         current = head
+        while current:
+            new_node = Node(current.val)
+            new_node.next = current.next
+            current.next = new_node
+            current = new_node.next
+
+        current = head
+        while current:
+            if current.random:
+                current.next.random = current.random.next
+            current = current.next.next
+
+        current = head
+        copied_head = head.next
+        while current:
+            copied_node = current.next
+            current.next = copied_node.next
+            copied_node.next = copied_node.next.next if copied_node.next else None
+            current = current.next
+        return copied_head
+
+        
+
+
+'''
+        current = head
         node_map = {}
 
         while current:
@@ -26,3 +52,4 @@ class Solution:
             current = current.next
 
         return node_map[head]
+'''
