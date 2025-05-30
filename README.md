@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/selva-mani-007/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
