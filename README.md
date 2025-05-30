@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/selva-mani-007/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/selva-mani-007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 ## Math
@@ -51,5 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
