@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/selva-mani-007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/selva-mani-007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
