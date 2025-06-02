@@ -78,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/selva-mani-007/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/selva-mani-007/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/selva-mani-007/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/selva-mani-007/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
