@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/selva-mani-007/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/selva-mani-007/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
