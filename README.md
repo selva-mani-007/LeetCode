@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/selva-mani-007/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/selva-mani-007/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/selva-mani-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/selva-mani-007/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
