@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/selva-mani-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/selva-mani-007/LeetCode/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/selva-mani-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/selva-mani-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
