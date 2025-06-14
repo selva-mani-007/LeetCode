@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/selva-mani-007/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+| [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/selva-mani-007/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/selva-mani-007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/selva-mani-007/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/selva-mani-007/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
