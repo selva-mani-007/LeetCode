@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/selva-mani-007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
