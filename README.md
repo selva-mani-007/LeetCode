@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/selva-mani-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/selva-mani-007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/selva-mani-007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/selva-mani-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/selva-mani-007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
