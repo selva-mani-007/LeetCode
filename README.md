@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/selva-mani-007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/selva-mani-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/selva-mani-007/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/selva-mani-007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Queue
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selva-mani-007/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
