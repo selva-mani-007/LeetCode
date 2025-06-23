@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/selva-mani-007/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/selva-mani-007/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
@@ -325,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/selva-mani-007/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
