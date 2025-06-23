@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selva-mani-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/selva-mani-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/selva-mani-007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/selva-mani-007/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/selva-mani-007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/selva-mani-007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/selva-mani-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/selva-mani-007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/selva-mani-007/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/selva-mani-007/LeetCode/tree/master/0322-coin-change) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/selva-mani-007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -314,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
