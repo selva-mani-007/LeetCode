@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/selva-mani-007/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/selva-mani-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
+| [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 ## Trie
 |  |
 | ------- |
