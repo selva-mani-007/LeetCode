@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selva-mani-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/selva-mani-007/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/selva-mani-007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selva-mani-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/selva-mani-007/LeetCode/tree/master/0148-sort-list) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selva-mani-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/selva-mani-007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selva-mani-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/selva-mani-007/LeetCode/tree/master/0148-sort-list) |
 ## Quickselect
 |  |
