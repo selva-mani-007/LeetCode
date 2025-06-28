@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/selva-mani-007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
+| [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/selva-mani-007/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/selva-mani-007/LeetCode/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
+| [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
