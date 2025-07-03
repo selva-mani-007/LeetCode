@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/selva-mani-007/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/selva-mani-007/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/selva-mani-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/selva-mani-007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/selva-mani-007/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/selva-mani-007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/selva-mani-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/selva-mani-007/LeetCode/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/selva-mani-007/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
