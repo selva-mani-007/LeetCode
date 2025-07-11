@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/selva-mani-007/LeetCode/tree/master/0383-ransom-note) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/selva-mani-007/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/selva-mani-007/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/selva-mani-007/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/selva-mani-007/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/selva-mani-007/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/selva-mani-007/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
