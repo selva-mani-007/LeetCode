@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/selva-mani-007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/selva-mani-007/LeetCode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/selva-mani-007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/selva-mani-007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/selva-mani-007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/selva-mani-007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selva-mani-007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/selva-mani-007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/selva-mani-007/LeetCode/tree/master/0139-word-break) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/selva-mani-007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/selva-mani-007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/selva-mani-007/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
