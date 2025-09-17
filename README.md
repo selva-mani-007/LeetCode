@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/selva-mani-007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0890-lemonade-change](https://github.com/selva-mani-007/LeetCode/tree/master/0890-lemonade-change) |
+| [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 | [2102-find-the-middle-index-in-array](https://github.com/selva-mani-007/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/selva-mani-007/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/selva-mani-007/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/selva-mani-007/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/selva-mani-007/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
