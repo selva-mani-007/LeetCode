@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/selva-mani-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/selva-mani-007/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/selva-mani-007/LeetCode/tree/master/0502-ipo) |
 | [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/selva-mani-007/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/selva-mani-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/selva-mani-007/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/selva-mani-007/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0494-target-sum) |
 ## Segment Tree
 |  |
 | ------- |
