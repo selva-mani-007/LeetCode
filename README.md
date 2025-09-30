@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/selva-mani-007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/selva-mani-007/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/selva-mani-007/LeetCode/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/selva-mani-007/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/selva-mani-007/LeetCode/tree/master/0733-flood-fill) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/selva-mani-007/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/selva-mani-007/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/selva-mani-007/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/selva-mani-007/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/selva-mani-007/LeetCode/tree/master/0733-flood-fill) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/selva-mani-007/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/selva-mani-007/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/selva-mani-007/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/selva-mani-007/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/selva-mani-007/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/selva-mani-007/LeetCode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/selva-mani-007/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/selva-mani-007/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/selva-mani-007/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/selva-mani-007/LeetCode/tree/master/0967-minimum-falling-path-sum) |
