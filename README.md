@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/selva-mani-007/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/selva-mani-007/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/selva-mani-007/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/selva-mani-007/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/selva-mani-007/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/selva-mani-007/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/selva-mani-007/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/selva-mani-007/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selva-mani-007/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/selva-mani-007/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/selva-mani-007/LeetCode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/selva-mani-007/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Combinatorics
 |  |
 | ------- |
@@ -519,4 +522,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/selva-mani-007/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/selva-mani-007/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/selva-mani-007/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
